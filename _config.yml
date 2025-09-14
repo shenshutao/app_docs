@@ -1,0 +1,28 @@
+# GitHub Pages configuration
+title: QR Scanner
+description: Fast, accurate QR & barcode scanner with history tracking and EMVCo payment support
+url: https://shenshutao.github.io
+baseurl: /app_docs
+
+# Theme (optional)
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Exclude files
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# SEO settings
+author: Zoro
+twitter:
+  username: shenshutao
+social:
+  name: QR Scanner
+  links:
+    - https://github.com/shenshutao/app_docs
